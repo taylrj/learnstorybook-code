@@ -851,9 +851,9 @@ a:focus {
   line-height: 20px;
   display: flex;
   flex-wrap: wrap;
-  height: 3rem;
+  height: 6rem;
   width: 100%;
-  background: white;
+  background: green;
   transition: all ease-out 150ms;
 }
 .list-item .title {
